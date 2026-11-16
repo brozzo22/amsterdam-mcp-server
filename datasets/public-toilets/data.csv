@@ -1,0 +1,110 @@
+id,latitude,longitude,type,location_description,district,price_per_use,opening_days,opening_hours,open_24_hours
+1,52.36728,4.890096,Amsterdamse krul,Singel tov Bloemenmarkt,Centrum,0,,24 uur,yes
+2,52.367437,4.889209,"Openbaar toilet, rolstoeltoegankelijk",Koningsplein,Centrum,0.5,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+3,52.366245,4.89222,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+11,52.373902,4.898217,Amsterdamse krul,Oudekerkplein Zuidzijde,Centrum,0,,24 uur,yes
+12,52.37708,4.892413,Amsterdamse krul,Singel tov 43,Centrum,0,,24 uur,yes
+13,52.374496,4.884908,Amsterdamse krul,Westermarkt Prinsengracht - twee krullen,Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+14,52.373057,4.889051,Amsterdamse krul,Singel / Raadhuisstraat,Centrum,0,,24 uur,yes
+15,52.374254,4.889522,Amsterdamse krul,Singel tov 167,Centrum,0,,24 uur,yes
+16,52.370394,4.888361,Amsterdamse krul,Singel tov 311,Centrum,0,,24 uur,yes
+17,52.378983,4.894051,Amsterdamse krul,Brouwersgracht / Singel nabij Singelsluis,Centrum,0,,24 uur,yes
+18,52.374467,4.898922,Amsterdamse krul,Oudekerkplein noordzijde,Centrum,0,,24 uur,yes
+19,52.373178,4.898609,Amsterdamse krul,Oudezijds Achterburgwal tov 78,Centrum,0,,24 uur,yes
+20,52.372601,4.89816,Amsterdamse krul,Oudezijds Achterburgwal / Brandesteeg,Centrum,0,,24 uur,yes
+21,52.371457,4.89553,Amsterdamse krul,"Oudezijds Voorburgwal, Prinsenhof / Hotel The Grand",Centrum,0,,24 uur,yes
+22,52.364351,4.889736,Amsterdamse krul,Nieuwe Spiegelgracht - Keizersgracht,Centrum,0,,24 uur,yes
+23,52.363914,4.898588,Amsterdamse krul,Utrechtse straat,Centrum,0,,24 uur,yes
+25,52.379636,4.880664,Amsterdamse krul,Lindengracht,Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+27,52.368764,4.877074,Amsterdamse krul,Marnixstraat - Elandsgracht tov bureau van Politie,Centrum,0,,24 uur,yes
+29,52.361973,4.886403,Amsterdamse krul,Lijnbaansgracht 282,Centrum,0,,24 uur,yes
+30,52.362063,4.896194,Amsterdamse krul,Amstelveld,Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+31,52.381291,4.880182,Amsterdamse krul,"Marnixplantsoen, nabij brug",Centrum,0,,24 uur,yes
+33,52.358558,4.865594,"Openbaar toilet, rolstoeltoegankelijk",Nabij het pierenbadje,Zuid,0,,"Geopend wanneer het pierenbadje open is: wanneer het zonnig is en warmer dan 20 graden, van mei t/m september van 10.00 tot 18.00 uur.",no
+34,52.358575,4.871436,Openbaar toilet,nabij openluchtheater,Zuid,0,,Alleen geopend tijdens evenementen in de lente en (na) zomer,no
+35,52.35404,4.886989,Amsterdamse krul,Ruysdaelkade / Govert Flinckstraat,Zuid,0,,24 uur,yes
+36,52.357767,4.886433,Amsterdamse krul,Hobbemakade /  Honthorststraat - Brandweerkazerne,Zuid,0,,24 uur per dag,yes
+37,52.355627,4.878484,Amsterdamse krul,Naast het Concertgebouw,Zuid,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+38,52.379413,4.891667,Amsterdamse krul,Herenmarkt / Brouwersgracht,Centrum,0,,24 uur,yes
+39,52.37022,4.911695,Amsterdamse krul,Kadijksplein,Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+40,52.367686,4.913126,Amsterdamse krul,"Kerklaan, nabij ingang Artis",Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+42,52.360293,4.919494,Amsterdamse krul,Oosterpark,Oost,0,,24 uur,yes
+45,52.359363,4.856356,Amsterdamse krul,Derde kostverlorenkade / Vosmaerstraat,West,0,,24 uur,yes
+46,52.343593,4.884215,Openbaar toilet,"Toilet bij kiosk en pierenbad, beheerd door de gemeente",Zuid,0,,"Open bij mooi weer, tijdens openingstijden parkkiosk. Zie http://parkkiosk.nl/. Circa 8:00-18:00.",no
+47,52.385997,4.922155,Amsterdamse krul,Meeuwenlaan / Hamerstraat,Noord,0,,,no
+48,52.390326,4.922684,"Openbaar toilet, rolstoeltoegankelijk",Openbaar toilet bij het pierenbadje. Gerenoveerd in 2019,Noord,0,ma - di - wo - do - vr - za - zo,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september. Meer informatie: https://www.amsterdam.nl/sport/zwemmen/openbare/,no
+49,52.365211,4.895908,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+50,52.366136,4.89684,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+51,52.367066,4.895472,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+52,52.366569,4.90012,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+58,52.324441,4.893483,Overig urinoir,,Zuid,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+59,52.3822,4.903527,Amsterdamse krul,Buiksloterwegveer,Noord,0,ma - di - wo - do - vr - za - zo,,no
+60,52.363494,4.882023,"Openbaar toilet, rolstoeltoegankelijk",,Centrum,0,,"Openbaar toilet, 24/7 in gebruik",yes
+65,52.374057,4.895078,Openbaar toilet,"Beursplein, Fietsenstalling",Centrum,0.5,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+66,52.313946,4.94074,Toilet in parkeergarage,"Arena, P+R",Zuidoost,0,ma - di - wo - do - vr - za - zo,,no
+67,52.379061,4.845418,Toilet in parkeergarage,P+R (alleen voor parkeerders),West,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+68,52.339798,4.889775,Toilet in parkeergarage,"Rai, P+R (alleen voor parkeerders)",Zuid,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+69,52.390034,4.838452,Toilet in parkeergarage,P+R (alleen voor parkeerders),Nieuw-West,0,,24 uur per dag,yes
+70,52.344306,4.85517,Toilet in parkeergarage,"Olympisch Stadion, P+R (alleen voor parkeerders)",Zuid,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+71,52.363853,4.882841,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+72,52.397974,4.936329,Overig urinoir,"Buikslotermeerplein / Het Breed, Taxistandplaats",Noord,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+73,52.384946,4.884489,Toilet in parkeergarage,"Willemspoort, Parkeergarage (alleen voor parkeerders)",Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+74,52.378083,4.914207,Toilet in parkeergarage,Parkeergarage (alleen voor parkeerders),Oost,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+75,52.369803,4.908592,Toilet in parkeergarage,Parkeergarage (alleen voor parkeerders),Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+76,52.36735,4.901108,Toilet in parkeergarage,"Amstel 1, Parkeergarage (alleen voor parkeerders)",Centrum,0,ma - di - wo - do - vr - za - zo,24 uur per dag,yes
+77,52.407899,4.916832,Toilet in parkeergarage,"De Banne, Parkeergarage (alleen voor parkeerders)",Noord,0,,24 uur per dag,yes
+78,52.310366,4.941429,Toilet in parkeergarage,Parkeergarage,Zuidoost,0,,,no
+79,52.311743,4.94569,Toilet in parkeergarage,Parkeergarage,Zuidoost,0,,,no
+80,52.311823,4.938452,Toilet in parkeergarage,Parkeergarage,Zuidoost,0,,,no
+81,52.362323,4.883723,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+85,52.384333,4.883677,Amsterdamse krul,Haarlemmerplein,Centrum,0,,24 uur,yes
+86,52.393213,4.993926,Amsterdamse krul,Dorpsweg Ransdorp naast bushalte kerk,Noord,0,,24 uur,yes
+87,52.413221,5.025137,Amsterdamse krul,Dorpsstraat Holysloot - naast bushalte Kerk,Noord,0,,24 uur,yes
+88,52.383644,4.965149,Amsterdamse krul,Wijkergouw / Schellingwoude Kerk,Noord,0,,24,yes
+89,52.397307,4.951276,Overig urinoir,Beemesterstraat / IJdoornlaan,Noord,0,,24 uur,yes
+90,52.365265,4.905162,Amsterdamse krul,Nieuwe Keizersgracht / Weesperstraat,Centrum,0,,24 uur,yes
+91,52.363221,4.910878,Amsterdamse krul,Nieuwe Achtergracht / Roetersstraat,Centrum,0,,24 uur,yes
+92,52.373259,4.900592,Amsterdamse krul,Nieuwmarkt / Geldersekade,Centrum,0,,24 uur,yes
+100,52.367883,4.900831,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,Centrum,0,ma - di - wo - do - vr,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+101,52.401057,4.933056,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,Noord,0,,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+102,52.356721,4.930893,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,Oost,0,ma - di - wo - do - vr,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+103,52.340456,4.893858,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,Zuid,0,ma - di - wo - do - vr,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+104,52.378162,4.845191,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,West,0,ma - di - wo - do - vr,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+105,52.357949,4.805838,"Openbaar toilet, rolstoeltoegankelijk",Stadsloket,Nieuw-West,0,ma - di - wo - do - vr,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+106,52.316182,4.956507,"Openbaar toilet, rolstoeltoegankelijk",Stadskantoor,Zuidoost,0,,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+107,52.372742,4.890845,Openbaar toilet,,Centrum,0,do - vr - za,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+109,52.329503,4.893375,"Openbaar toilet, rolstoeltoegankelijk",,Zuid,0,,Open wanneer het park open is 07:00-18:00 in de winter (1 oktober tot 1 april) 07:00-22:00 in de zomer (1 april tot 1 oktober),no
+160,52.332439,4.892071,Openbaar toilet,,Zuid,0,,Open wanneer het park open is 07:00-18:00 in de winter (1 oktober tot 1 april) 07:00-22:00 in de zomer (1 april tot 1 oktober),no
+162,52.365959,4.894913,Overig urinoir,"Green Pee, urinor met groene uitstraling met planten.",Centrum,0,do - vr - za - zo,alleen tijdens nachtelijke uren,no
+163,52.366031,4.894862,Overig urinoir,"Green Pee, urinor met groene uitstraling met planten.",Centrum,0,do - vr - za - zo,alleen tijdens de nachtelijke uren,no
+168,52.310667,4.985058,Amsterdamse krul,,Zuidoost,0,ma - di - wo - do - vr - za - zo,,no
+179,52.364564,4.892245,"Openbaar toilet, rolstoeltoegankelijk",Stadsarchief de Bazel,Centrum,0,ma - di - wo - do - vr - za - zo,Maandag t/m vrijdag: 9.00 - 17.00 uur. Zaterdag en zondag: 12.00 - 17.00 uur.,no
+180,52.362433,4.908515,"Openbaar toilet, rolstoeltoegankelijk",GGD Amsterdam,Centrum,0,ma - di - wo - do - vr,Maandag t/m donderdag 9.00 - 18.00 uur. Vrijdag 9.00 - 18.00 uur.,no
+182,52.361449,4.921238,Openbaar toilet,,Oost,0,ma - di - wo - do - vr - za - zo,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september. Meer informatie: https://www.amsterdam.nl/sport/zwemmen/openbare/,no
+222,52.383266,4.85371,Openbaar toilet,,West,0,,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september.,no
+223,52.413997,4.885889,Openbaar toilet,,Noord,0,,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september.,no
+224,52.382523,4.809524,Openbaar toilet,,Nieuw-West,0,,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september.,no
+225,52.355114,4.817688,Openbaar toilet,,Nieuw-West,0,,Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september.,no
+226,52.327406,4.854906,"Openbaar toilet, rolstoeltoegankelijk",,Amsterdamse Bos area (outside the districts),1,,De Boswinkel is geopend op woensdag t/m zondag van 10.00 - 17.00 uur. Toilet is tegen betaling te gebruiken.,no
+227,52.32434,4.848583,"Openbaar toilet, rolstoeltoegankelijk","De toiletten van het Klein Kinderbad zijn dagelijks geopend van 10:00 tot 19:00 uur, behalve bij vorst.",Amsterdamse Bos area (outside the districts),0,za,"10:00-19:00, behalve bij vorst",no
+228,52.316618,4.822143,"Openbaar toilet, rolstoeltoegankelijk","De toiletten van het Groot Kinderbad zijn dagelijks geopend van 10:00 tot 19:00 uur, behalve bij vorst.",Amsterdamse Bos area (outside the districts),0,,"10:00 tot 19:00 uur, behalve bij vorst",no
+229,52.321338,4.826261,"Openbaar toilet, rolstoeltoegankelijk",Dit toilet is het hele jaar geopend. Bij vorst zijn allen de verwarmde toiletten geopend.,Amsterdamse Bos area (outside the districts),0,,Openingstijden zijn van 10.00 - 17.00 uur.,no
+231,52.30617,4.81665,"Openbaar toilet, rolstoeltoegankelijk",Dit toilet is het hele jaar geopend,Amsterdamse Bos area (outside the districts),0,,De openingstijden zijn van 10.00 - 17.00 uur.,no
+232,52.389577,4.838389,"Openbaar toilet, rolstoeltoegankelijk",,Nieuw-West,0,,24 uur per dag,yes
+243,52.368667,4.88972,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 7.00 - 9.00 uur verplaatsing naar ondergronds.,no
+245,52.387725,4.875374,Openbaar toilet,Toilet bij kiosk. Zie voor meer info http://www.de-parkwachter.nl/,West,0,ma - di - wo - do - vr - za - zo,Open bij mooi weer van 08:30-16:00. Maandag t/m zondag,no
+246,52.366146,4.897009,"Openbaar toilet, rolstoeltoegankelijk",Rolstoeltoegankelijk zelfreinigend toilet,Centrum,0.5,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+247,52.371168,4.893223,Toilet in parkeergarage,"Rokin 67, Parkeergarage (alleen voor parkeerders)",Centrum,0,,"7 dagen per week, 24 uur per dag",yes
+248,52.373356,4.966335,"Openbaar toilet, rolstoeltoegankelijk",,Oost,0,,24 uur per dag geopend,yes
+249,52.373228,4.966314,Overig urinoir,,Oost,0,,24 uur per dag geopend,yes
+256,52.3595,4.874108,Openbaar toilet,,Zuid,0,,,no
+258,52.306717,5.042394,"Openbaar toilet, rolstoeltoegankelijk",Stadskantoor,Weesp,0,,Alle werkdagen geopend van 08.00 - 18.00 uur en op donderdagen tot 20.00 uur.,no
+260,52.364196,4.883152,Verzinkbaar urinoir,Urilift,Centrum,0,,Donderdag tot en met zondag van 18.00 - 7.00 uur. Tussen 15.30 - 18.00 uur verplaatsing naar bovengronds. tussen 07.00 - 09.00 uur verplaatsing naar ondergronds.,no
+261,52.360501,4.919601,"Openbaar toilet, rolstoeltoegankelijk",,Oost,0,ma - di - wo - do - vr - za - zo,1 april tot 1 oktober 08.00 – 22.00 uur 1 oktober tot 1 april: 08.00 – 20.00 uur,no
+280,52.369053,4.877541,"Openbaar toilet, rolstoeltoegankelijk","Toilet bij Busstation Elandsgracht, tussen busstation en Marnixstraat Gratis te gebruiken",Centrum,0,ma - di - wo - do - vr - za - zo,24/7 geopend,yes
+281,52.332716,4.896208,"Openbaar toilet, rolstoeltoegankelijk",,Zuid,0,,"Open als de kinderboerderij open is Dagelijks 10:00-15:30, hele jaar rond",no
+282,52.358155,4.88434,"Openbaar toilet, rolstoeltoegankelijk","Toilet, geschikt voor rolstoelgebruikers, met buiten twee urinoirs",Zuid,0,ma - di - wo - do - vr - za - zo,1 april tot 1 oktober: 08.00 - 22.00 1 oktober tot 1 april: 08.00 - 20.00,no
+287,52.32022,4.827221,"Openbaar toilet, rolstoeltoegankelijk",,Amsterdamse Bos area (outside the districts),0,ma - di - wo - do - vr - za - zo,Tijdens vakanties en in het hoogseizoen 7 dagen per week geopend. Buiten deze tijden op maandagen gesloten. Openingstijden dagelijks 10:30-17:00.,no
+288,52.338888,4.8467,Openbaar toilet,,Zuid,0,ma - di - wo - do - vr - za - zo,"Geopend van 07:00 tot 21:00, in de winter mogelijk iets eerder dicht",no
+289,52.36787,4.901838,"Openbaar toilet, rolstoeltoegankelijk",Toilet in de markthal,Centrum,1,ma - di - wo - do - vr - za - zo,7 tot 23,no
+290,52.310256,4.9881,Openbaar toilet,Details volgen,Zuidoost,0,,Volgen,no
